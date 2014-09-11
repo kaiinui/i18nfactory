@@ -49,5 +49,7 @@ Testing Concerns
 References
 ---
 
+- TraductoPro - http://www.traductoapp.com/
+- Loco - https://localise.biz/
 - Locale for Rails - https://www.localeapp.com/
 - Google Translation Toolkit - http://techcrunch.com/2009/06/10/google-translator-kit-automated-translation-meets-crowdsourcing/
