@@ -24,6 +24,7 @@ Concerns
   * Screenshot `@screenshot(https://dropbox.com/public/hodsfjfi/hoge.png)`
 
 - Retain state in the strings file
+  * BASE locale.
   * comments (annotation)
 
 ```
@@ -35,9 +36,18 @@ Concerns
   * add "i18nfactorybot" to contributor
   * then "i18nfactorybot" will push some code.
 
-Testing
+- branch
+  * It should work on `i18nfactory` branch.
+
+Testing Concerns
 ---
 
 - GitHub push&commits will be difficult to test.
 - webhook.
 - gengo / google translate API.
+
+References
+---
+
+- Locale for Rails - https://www.localeapp.com/
+- Google Translation Toolkit - http://techcrunch.com/2009/06/10/google-translator-kit-automated-translation-meets-crowdsourcing/
